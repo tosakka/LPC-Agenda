@@ -1,0 +1,11 @@
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\bin\Debug\Practica Agenda.exe.config
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\bin\Debug\Practica Agenda.exe
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\bin\Debug\Practica Agenda.pdb
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.csproj.AssemblyReference.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica_Agenda.Form1.resources
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica_Agenda.Properties.Resources.resources
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.csproj.GenerateResource.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.csproj.CoreCompileInputs.cache
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.exe
+C:\Users\nadek\Desktop\Tarea\ene2023\lenguajec\Agenda\Practica Agenda\Practica Agenda\obj\Debug\Practica Agenda.pdb
